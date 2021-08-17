@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosooyoung&layout=compact)](https://github.com/yoosooyoung/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoosooyoung&repo=ViewCloset_deeplearning&theme=dark&hide_border=true)](https://github.com/yoosooyoung/ViewCloset_deeplearning)
+
+
+
 
 
 
